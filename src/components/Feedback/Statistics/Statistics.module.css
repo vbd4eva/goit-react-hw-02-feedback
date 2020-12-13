@@ -17,8 +17,6 @@
   box-shadow: var(--shadow-out);
 }
 
-.name {
-}
 .value {
   color: var(--color-dark);
   font-weight: bold;
